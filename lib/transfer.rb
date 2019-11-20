@@ -33,5 +33,5 @@ class Transfer
       @status = "reversed"
     end
   end
-   "rejected
+ "rejected"
 end
